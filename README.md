@@ -18,10 +18,7 @@
 
 <br/>
 
-<a href="https://spend-smart-smart-expense-tracker.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀 Live Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spend-smart-smart-expense-tracker.vercel.app/)
 </div>
 
 ---
