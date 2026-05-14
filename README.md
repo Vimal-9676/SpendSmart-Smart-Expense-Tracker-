@@ -1,140 +1,86 @@
+# <div align="center">💸 SpendSmart</div>
+
 <div align="center">
 
-# 💸 SpendSmart  
-### Premium Expense Tracker Dashboard
+### ⚡ Modern Fintech Expense Tracker Dashboard
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=26&duration=2500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Track+Your+Expenses+Smartly+💰;Beautiful+Fintech+Dashboard+📊;Smart+Expense+Categorization+🤖;Dark+%26+Light+Mode+🌙;Responsive+Modern+UI+✨" />
+
+<br><br>
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spend-smart-smart-expense-tracker.vercel.app/)
+
+<br><br>
 
 <p align="center">
-  A modern fintech-style expense tracking application built with React, Vite, Tailwind CSS, and Framer Motion.
+  <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-11-EF4FFF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-<br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Vite-5-purple?style=for-the-badge&logo=vite" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-cyan?style=for-the-badge&logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-11-pink?style=for-the-badge&logo=framer" />
-</p>
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://spend-smart-smart-expense-tracker.vercel.app/)
 </div>
 
 ---
 
-# ✨ Features
+# 🌟 About Project
 
-<table>
-<tr>
-<td width="50%">
+SpendSmart is a modern fintech-style expense tracker dashboard built using React, Vite, Tailwind CSS, and Framer Motion.
 
-### 🔐 Authentication
-- Login & Signup system
-- LocalStorage persistence
-- Remember me option
-- Show/Hide password
-- Secure route handling
+The application helps users manage daily expenses with a clean and interactive dashboard experience. Users can add expenses, track spending patterns, view analytics, and organize transactions using smart category detection.
 
-### 📊 Dashboard
-- Animated summary cards
-- Real-time expense tracking
-- Monthly expense overview
-- Interactive analytics
-
-### ➕ Expense Management
-- Add/Delete expenses
-- Smart category detection
-- Instant calculations
-- Beautiful expense cards
-
-### 📈 Analytics
-- Animated donut chart
-- Category-wise spending
-- Progress indicators
-- Expense breakdown
-
-</td>
-
-<td width="50%">
-
-### 🌙 Dark / Light Mode
-- Smooth theme switching
-- Persistent preferences
-- Elegant UI transitions
-
-### 🔍 Search & Filters
-- Real-time search
-- Category filtering
-- Sort functionality
-
-### 🎞️ Smooth Animations
-- Framer Motion transitions
-- Interactive hover effects
-- Animated counters
-
-### 📱 Fully Responsive
-- Mobile-first layout
-- Tablet optimized
-- Desktop dashboard
-- Bottom mobile navigation
-
-</td>
-</tr>
-</table>
+The UI is designed with a premium glassmorphism-inspired design system featuring smooth animations, responsive layouts, dark/light themes, and modern dashboard interactions.
 
 ---
 
-# 📸 Application Screenshots
+# 🚀 Features
 
-<div align="center">
-
-## 🔐 Login Page
-
-<img src="./screenshots/login-page.png" alt="SpendSmart Login Page" width="100%" />
-
-<br/>
-<br/>
-
-## 📊 Dashboard Preview
-
-<img src="./screenshots/dashboard.png" alt="SpendSmart Dashboard" width="100%" />
-
-</div>
+- 🔐 Login & Signup Authentication  
+- 💰 Add & Manage Expenses  
+- 📊 Real-Time Expense Analytics  
+- 🤖 Smart Category Detection  
+- 🌙 Dark / Light Theme  
+- 🔍 Search & Filter Expenses  
+- 📱 Fully Responsive Design  
+- 🎞️ Smooth Framer Motion Animations  
+- 🗑️ Delete Confirmation Modal  
+- 💾 LocalStorage Data Persistence  
+- 📈 Interactive Donut Chart Analytics  
+- ✨ Modern Glassmorphism UI  
 
 ---
 
-# 🎨 UI Highlights
+# 🖼️ Screenshots
 
-<div align="center">
+### 🔐 Login Page
+![Login](./screenshots/login-page.png)
 
-✨ Glassmorphism Design  
-✨ Fintech Dashboard UI  
-✨ Gradient Hero Cards  
-✨ Mesh Background Effects  
-✨ Interactive Micro Animations  
-✨ Responsive Layouts  
-✨ Modern Typography  
-✨ Smooth User Experience  
+<br>
 
-</div>
+### 📊 Dashboard Preview
+![Dashboard](./screenshots/dashboard.png)
 
 ---
 
 # 🛠️ Tech Stack
 
-<div align="center">
+- ⚛️ React 18  
+- ⚡ Vite 5  
+- 🎨 Tailwind CSS  
+- 🎞️ Framer Motion  
+- 🔥 React Hot Toast  
+- 💾 LocalStorage  
 
-| Technology | Usage |
-|---|---|
-| ⚛️ React 18 | Frontend Framework |
-| ⚡ Vite 5 | Build Tool |
-| 🎨 Tailwind CSS | Styling |
-| 🎞️ Framer Motion | Animations |
-| 🔥 React Hot Toast | Notifications |
-| 💾 LocalStorage | Data Persistence |
+---
 
-</div>
+# ⚙️ How It Works
+
+1. User logs into the application  
+2. Expenses can be added with amount, category, and details  
+3. Smart keyword detection auto-selects categories  
+4. Dashboard analytics update in real-time  
+5. Expenses are stored using LocalStorage  
+6. Users can filter, search, and manage transactions easily  
 
 ---
 
@@ -143,119 +89,50 @@
 ```bash
 src/
 ├── components/
-│   ├── AnalyticsPanel.jsx
-│   ├── CategoryBreakdown.jsx
-│   ├── DeleteConfirmModal.jsx
-│   ├── EmptyState.jsx
-│   ├── ExpenseCard.jsx
-│   ├── ExpenseForm.jsx
-│   ├── ExpenseList.jsx
-│   ├── MobileNav.jsx
-│   ├── Navbar.jsx
-│   ├── SummaryPanel.jsx
-│   └── ThemeToggle.jsx
-│
 ├── hooks/
-│   ├── useAnimatedCounter.js
-│   ├── useExpenses.js
-│   └── useTheme.js
-│
 ├── pages/
-│   ├── Dashboard.jsx
-│   ├── LoginPage.jsx
-│   └── SignupPage.jsx
-│
 ├── utils/
-│   ├── categories.js
-│   ├── categoryDetection.js
-│   └── helpers.js
-│
 ├── styles/
-│   └── index.css
-│
 ├── App.jsx
 └── main.jsx
 ```
 
 ---
 
-# 🚀 Getting Started
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone YOUR_GITHUB_REPO_LINK
-cd spendsmart
-```
-
----
-
-## 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
----
-
-## 3️⃣ Run Development Server
-
-```bash
-npm run dev
-```
-
-App will run on:
-
-```bash
-http://localhost:5173
-```
-
----
-
-# 🔑 Demo Credentials
-
-| Email | Password |
-|---|---|
-| demo@spendsmart.app | demo123 |
-| admin@spendsmart.app | admin123 |
-
----
-
-# 📱 Responsive Breakpoints
+# 📱 Responsive Design
 
 | Device | Layout |
 |---|---|
-| 📱 Mobile (<640px) | Bottom navigation + stacked cards |
-| 📲 Tablet (640px–1024px) | Adaptive grid layout |
-| 💻 Desktop (>1024px) | Sidebar dashboard layout |
+| 📱 Mobile | Bottom navigation + stacked cards |
+| 📲 Tablet | Adaptive responsive grid |
+| 💻 Desktop | Full dashboard with sidebar layout |
 
 ---
 
-# 🧠 Smart Category Detection
+# 🎨 UI Highlights
 
-| Input | Detected Category |
-|---|---|
-| "Uber ride to airport" | Travel ✈️ |
-| "Netflix monthly" | Entertainment 🎬 |
-| "Pizza Hut dinner" | Food 🍔 |
-| "Electricity bill" | Utilities ⚡ |
-| "Rent payment March" | Rent 🏠 |
-| "Amazon shopping" | Shopping 🛍️ |
-| "Gym membership" | Health 🏥 |
-| "Udemy course" | Education 📚 |
+- Premium Fintech Dashboard UI  
+- Glassmorphism Design System  
+- Animated SVG Analytics  
+- Mesh Gradient Backgrounds  
+- Smooth Hover Interactions  
+- Modern Typography  
+- Dark / Light Theme Support  
+- Responsive Mobile Navigation  
 
 ---
 
-# 🎨 Design System
+# 📦 Run Locally
 
-- Premium Fintech Aesthetic
-- Glassmorphism Components
-- Animated SVG Analytics
-- Soft Shadows & Rounded Cards
-- Mesh Gradient Backgrounds
-- Smooth Page Transitions
-- Dark / Light Theme Support
+```bash
+git clone <your-repo-link>
 
+cd spendsmart
+
+npm install
+
+npm run dev
+```
 
 ---
 
