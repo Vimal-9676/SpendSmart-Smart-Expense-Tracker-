@@ -1,0 +1,5 @@
+SpendSmart — Premium Expense Tracker
+node_modules/
+dist/
+.env
+.env.local
