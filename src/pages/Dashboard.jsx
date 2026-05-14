@@ -8,7 +8,6 @@ import SummaryPanel from '../components/SummaryPanel';
 import ExpenseForm from '../components/ExpenseForm';
 import ExpenseList from '../components/ExpenseList';
 import AnalyticsPanel from '../components/AnalyticsPanel';
-import GeminiAssistant from '../components/GeminiAssistant';
 import CategoryBreakdown from '../components/CategoryBreakdown';
 import MobileNav from '../components/MobileNav';
 import DeleteConfirmModal from '../components/DeleteConfirmModal';
@@ -136,18 +135,7 @@ export default function Dashboard({ onLogout }) {
 
           {/* Right column - sidebar */}
           <div className="space-y-6">
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.15 }}
-              className={activeMobileTab !== 'ai' && activeMobileTab !== 'dashboard' ? 'hidden lg:block' : 'block'}
-            >
-              <GeminiAssistant
-                stats={stats}
-                categoryBreakdown={categoryBreakdown}
-                expenses={expenses}
-              />
-            </motion.div>
+
 
             <motion.div
               initial={{ opacity: 0, y: 20 }}

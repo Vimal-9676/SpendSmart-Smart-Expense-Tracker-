@@ -15,7 +15,7 @@ A **production-ready, fintech-style expense tracking dashboard** built with Reac
 | ➕ **Add Expenses** | Title, amount, date, category, description with live validation |
 | 🤖 **Auto Category** | Smart keyword-based detection (Uber → Travel, Netflix → Entertainment, etc.) |
 | 📈 **Analytics** | Animated SVG donut chart + category progress bars |
-| 🤖 **Gemini AI** | Smart financial assistant with context-aware responses |
+
 | 🌙 **Dark / Light Mode** | Smooth transitions, persisted in LocalStorage |
 | 🔍 **Search & Filter** | Real-time search, filter by category, sort options |
 | 🗑️ **Delete with Confirm** | Spring-animated delete confirmation modal |
@@ -54,7 +54,7 @@ src/
 ├── components/
 │   ├── AnalyticsPanel.jsx     # Donut chart + bar chart
 │   ├── CategoryBreakdown.jsx  # Sidebar category breakdown
-│   ├── GeminiAssistant.jsx    # Gemini AI Chatbot
+
 │   ├── DeleteConfirmModal.jsx # Delete confirmation
 │   ├── EmptyState.jsx         # Empty/no-results state
 │   ├── ExpenseCard.jsx        # Individual expense row
@@ -75,8 +75,7 @@ src/
 │   ├── categories.js          # Category metadata & colors
 │   ├── categoryDetection.js   # Smart auto-detection
 │   └── helpers.js             # Formatters, filters, stats
-├── services/
-│   └── geminiService.js       # Gemini API integration
+
 ├── styles/
 │   └── index.css              # Global styles + Tailwind
 ├── App.jsx                    # Root with routing
@@ -91,7 +90,7 @@ src/
 - **Tailwind CSS 3** — Utility-first styling with custom design tokens
 - **Framer Motion 11** — Smooth animations everywhere
 - **react-hot-toast** — Beautiful toast notifications
-- **Google Gemini API** — Context-aware AI financial assistant
+
 - **LocalStorage** — Zero-backend persistence
 
 ---
