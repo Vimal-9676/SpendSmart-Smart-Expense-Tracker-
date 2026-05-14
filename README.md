@@ -53,12 +53,12 @@ The UI is designed with a premium glassmorphism-inspired design system featuring
 # 🖼️ Screenshots
 
 ### 🔐 Login Page
-![Login](./screenshots/login-page.png)
+![Login](login.png)
 
 <br>
 
 ### 📊 Dashboard Preview
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
